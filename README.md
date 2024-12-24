@@ -92,7 +92,7 @@ chmod +x process_manager.sh
 + bg — перевод процесса в фоновый режим
 + kill — завершение процесса
 
-Дополнительные источники
+Ссылки на материалы
 ----
 1. Справочник Linux о работе с процессами: man bash
 2. Онлайн-руководство: [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
